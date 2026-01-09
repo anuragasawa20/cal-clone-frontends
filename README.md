@@ -363,12 +363,6 @@ Reusable UI components are built with:
 - View booking details
 - Cancel bookings
 
-## 🔗 Related Repositories
-
-- **Backend API**: [Backend Repository URL]
-- **Live Backend**: [Your Backend URL]
-
-
 ## 🐛 Troubleshooting
 
 ### API Connection Issues
